@@ -1,0 +1,5 @@
+Download the Visual Studio Code User setup for Windows.
+
+Run the installer, VSCodeUserSetup-{version}.exe.
+
+By default, the User setup installs VS Code under C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code.
